@@ -5,7 +5,8 @@ import Home from "./pages/Home"
 import Blog from "./pages/Blog"
 import PhotoPortfolio from "./pages/PhotoPortfolio"
 import SoftwarePortfolio from "./pages/SoftwarePortfolio"
-import WorkWithMe from "./pages/WorkWithMe"
+import About from "./pages/About"
+import Contact from "./pages/Contact"
 import { Routes, Route } from 'react-router'
 
 
@@ -19,7 +20,9 @@ function App() {
       <Route path="/blog" element={<Blog />} />
       <Route path="/photo-portfolio" element={<PhotoPortfolio />} />
       <Route path="/software-portfolio" element={<SoftwarePortfolio />} />
-      <Route path="/work-with-me" element={<WorkWithMe />} />
+      <Route path="/about" element={<About />} />
+      <Route path="/contact" element={<Contact />} />
+      
     </Routes>
     </>
   )

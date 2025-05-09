@@ -2,6 +2,6 @@ import React from 'react'
 
 export default function PhotoPortfolio() {
   return (
-    <div>PhotoPortfolio</div>
+    <div className='mt-20'>PhotoPortfolio</div>
   )
 }

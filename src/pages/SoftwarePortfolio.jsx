@@ -2,6 +2,6 @@ import React from 'react'
 
 export default function SoftwarePortfolio() {
   return (
-    <div>SoftwarePortfolio</div>
+    <div className='mt-20'>SoftwarePortfolio</div>
   )
 }

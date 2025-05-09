@@ -1,5 +1,45 @@
 @import "tailwindcss";
 
+/* install fonts */
+
+.comfortaa {
+  font-family: "Comfortaa", cursive;
+}
+
+.montserrat {
+  font-family: "Montserrat", sans-serif;
+}
+
+/* set up burnt orange colorway */
+
+.text-burntorange {
+  color: rgb(220, 121, 0);
+}
+
+.text-burntorange-hover:hover {
+  color:  rgb(201, 98, 13);
+}
+
+.bg-burntorange {
+  background-color: rgb(220, 121, 0);
+}
+
+
+.bg-burntorange-hover:hover {
+  background-color: rgb(201, 98, 13);
+}
+
+.border-burntorange {
+  border-color: rgb(220, 121, 0);
+}
+
+.bg-burntorange-hover:hover {
+  background-color: rgb(201, 98, 13);
+}
+
+/* unhide main content */
+
+
 /* #root {
   max-width: 1280px;
   margin: 0 auto;
