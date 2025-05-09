@@ -2,6 +2,6 @@ import React from 'react'
 
 export default function Home() {
   return (
-    <div className='mt-20'>Home</div>
+    <div className='pt-22 page-content'>Home</div>
   )
 }

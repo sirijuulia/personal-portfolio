@@ -2,6 +2,6 @@ import React from 'react'
 
 export default function Blog() {
   return (
-    <div className='mt-20'>Blog</div>
+    <div className='pt-22 page-content'>Blog</div>
   )
 }
