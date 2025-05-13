@@ -1,0 +1,8 @@
+note
+
+2025-05-09
+Siri
+TypeScript,Programming,Web Development
+
+Generics in TypeScript allow you to create reusable components and functions. In this post, we will dive deep into how to use generics effectively.
+

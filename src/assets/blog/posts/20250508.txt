@@ -1,0 +1,8 @@
+note
+
+2025-05-08
+Andy McAndyface
+React,JavaScript,Web Development
+
+In this post, we will explore the new features introduced in React 18, including automatic batching, new APIs, and more.
+

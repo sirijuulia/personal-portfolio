@@ -1,0 +1,9 @@
+post
+Creating a web app using Leaflet
+2025-05-10
+Siri
+React,JavaScript,Web Development
+src/assets/auroraBackground.jpg
+In this post, we will explore the new features introduced in React 18, including automatic batching, new APIs, and more.
+Here is a second line of text.
+Here is a third line of text.
