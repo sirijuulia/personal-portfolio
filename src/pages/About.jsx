@@ -5,8 +5,8 @@ import profileImage from "../assets/profileImage.jpg"
 export default function About() {
   return (
     <div className='w-full h-full grid grid-cols-5 items-center justify-middle top-0 overflow-hidden scrollbar-hidden fixed bg-cover bg-center pt-15 bp-5' style={{backgroundImage: `url(${treeBackground})`, backgroundColor: "rgba(0,0,0,0.6)", backgroundBlendMode: "overlay", backgroundAttachment: "fixed"}}>
-    <div className='col-start-1 col-span-2 aspect-1/1 rounded-full overflow-hidden shadow-lg shadow-gray-500/50'><img src={profileImage} alt="" /></div>
-    <div className='col-start-3 col-span-3 w-4/5 h-full mt-10 p-9 flex flex-col gap-4 overflow-scroll scrollbar-hidden justify-self-center'>
+    <div className='col-start-1 col-span-2 aspect-1/1 rounded-full overflow-hidden shadow-lg shadow-gray-500/50 justify-self-end ms-10'><img src={profileImage} alt="" /></div>
+    <div className='col-start-3 col-span-3 w-5/6 h-full mt-15 mb-10 p-5 flex flex-col gap-4 overflow-scroll scrollbar-hidden justify-self-center'>
     <div className='w-full bg-gray-600/80 text-white montserrat box-border p-8 rounded-lg text-justify'>
         <p>Hi, I'm Siri. I am a software developer, a facilitator and a community engagement professional, and an occasional photographer.</p>
         <br/>
